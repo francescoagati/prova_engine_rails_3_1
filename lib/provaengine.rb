@@ -1,3 +1,4 @@
+require 'provaengine/app'
 module Provaengine
   
   ::String.class_eval do
