@@ -6,5 +6,7 @@ module Provaengine
     end
   end
   
+  class Engine < ::Rails::Engine
+  end
   
 end
