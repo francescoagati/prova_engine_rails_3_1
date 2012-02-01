@@ -1,7 +1,7 @@
 require 'sinatra/base'
 module Provaengine
 
-  class MyApp < Sinatra::Base
+  class App < Sinatra::Base
     set :sessions, true
     set :foo, 'bar'
 
